@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pBHsAkn0IzjyfsaVblCkZ4VuZf+O3mhVoj9zn5An0kI=",
+  "Source": "RetrieveJWTToken",
+  "BasePath": "_content/RetrieveJWTToken",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
